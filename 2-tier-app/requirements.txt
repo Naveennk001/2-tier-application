@@ -4,6 +4,7 @@ psycopg2-binary
 gunicorn==23.0.0
 flask-login
 Werkzeug>=2.0.0
+bcrypt
 prometheus-client
 python-json-logger
 
